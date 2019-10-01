@@ -11,7 +11,7 @@
 	</parent>
 
 	<artifactId>sm-core</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>sm-core</name>
 	<url>http://www.shopizer.com</url>
